@@ -14,7 +14,7 @@ Sample (note that the latest uuid is at the top).
         "2021-05-21 12:07:27.150522": "6270d1d412b546a28b7d2c98130e1a5a",
     }
 
-* install dependencies: `pip install -r requirements.txt`
-* run migration: `python manage.py migrate`
-* Run server: `python manage.py runserver`
-* Run test: `python manage.py test -v 0`
+*   install dependencies: `pip install -r requirements.txt`
+*   run migration: `python manage.py migrate`
+*   Run server: `python manage.py runserver`
+*   Run test: `python manage.py test -v 0`
