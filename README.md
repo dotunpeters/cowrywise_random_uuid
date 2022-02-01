@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fc0132181c454e56ac36a35825a16119)](https://www.codacy.com/gh/dotunpeters/cowrywise_random_uuid/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dotunpeters/cowrywise_random_uuid&amp;utm_campaign=Badge_Grade)
+
 # Generate Random UUID
 
 ## Question
