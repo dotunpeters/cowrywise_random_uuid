@@ -1,0 +1,36 @@
+# virtual environment
+.venv
+venv
+.environment
+.env
+.virtualenv
+
+# pytest
+.pytest
+.pytest_cache
+.tox
+.nox
+.coverage
+.coveragerc
+.coveralls.io
+
+# pip
+.pip
+.pip-selfcheck.json
+.pip-save
+.pip-wheel-metadata
+
+# virtualenv-clone
+.venv-clone
+
+# pipenv
+.pipenv
+
+# pyenv
+.pyenv
+.python-version
+.python-version.lock
+
+# db
+.db
+db.sqlite3
